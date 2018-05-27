@@ -1,0 +1,8 @@
+#ifndef CONSTANTS
+	#define MAX_ARRAY_SIZE 14
+	#define PLAYER_ONE_STORE_LOC 6
+	#define COMPUTER_STORE_LOC 12
+	#define UPPER_LIMIT_SELECTION 6
+	#define PLAYER_ONE 1
+	#define COMPUTER 2
+#endif
